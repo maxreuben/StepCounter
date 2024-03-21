@@ -3,9 +3,9 @@
 A Pretty Step Counting App (with Widget) made using HealthKit and SwiftUI. Set goals and receive awards.
 
 Frameworks Used:
-  *🎨 SwiftUI
-  *❤️‍🩹 HealthKit
-  *📊 Swift Charts
-  *🔔 Local Notifications
-  *🗂️ MVVM
-  *💾 App Storage
+  * 🎨 SwiftUI
+  * ❤️‍🩹 HealthKit
+  * 📊 Swift Charts
+  * 🔔 Local Notifications
+  * 🗂️ MVVM
+  * 💾 App Storage
