@@ -6,9 +6,9 @@ Frameworks Used:
   * SwiftUI
   * HealthKit
   * Swift Charts
-  * Local Notifications
+  * User Notifications
   * MVVM
-  * App Storage
+  * Core Data
 
 ## Screenshots
 <p align="center">
